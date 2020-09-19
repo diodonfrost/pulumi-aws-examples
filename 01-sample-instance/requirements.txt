@@ -1,0 +1,10 @@
+Arpeggio==1.9.2
+attrs==20.2.0
+dill==0.3.2
+grpcio==1.32.0
+parver==0.3.0
+protobuf==3.13.0
+pulumi==2.10.0
+pulumi-aws==3.2.1
+semver==2.10.2
+six==1.15.0

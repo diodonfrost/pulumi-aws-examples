@@ -1,0 +1,6 @@
+name: 01-sample-instance
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Basic example with Pulumi
